@@ -1,0 +1,27 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment-specific files
+.venv/
+venv/
+ENV/
+.env
+
+# Pipenv files
+.venv
+bin/
+lib/
+share/
+include/
+
+# Project-specific output (Your scan results)
+*.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Scapy history/temp files
+.scapy_history
